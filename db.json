@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 23422,
+      "tittle": "Dolby Access",
+      "img": [
+        "https://store-images.s-microsoft.com/image/apps.21701.13925855090824389.22c7efbb-27c0-4eda-bbc2-aaa9cb33277b.0421202b-7cb3-4c03-839c-55ea25fd3bc9",
+        "https://store-images.s-microsoft.com/image/apps.52138.13925855090824389.22c7efbb-27c0-4eda-bbc2-aaa9cb33277b.afabd8f4-d5a7-4804-9649-d0e39ecd2034",
+        "https://store-images.s-microsoft.com/image/apps.42937.13925855090824389.22c7efbb-27c0-4eda-bbc2-aaa9cb33277b.256ff81b-d602-47dc-9948-05b56ab2d826"
+      ],
+      "icon": "https://store-images.s-microsoft.com/image/apps.44555.13925855090824389.09f473d9-ce97-499c-9d53-c21e8f64ee62.1f593a37-c65c-461c-9030-11d2da0d956b",
+      "desc": "Descargue Dolby Access para comenzar su prueba gratuita de Dolby Atmos for Headphones o configure un dispositivo Dolby Atmos. Escuche una impactante experiencia llena de matices, precisión y realismo en sus juegos, películas y programas con sonido que fluye a su alrededor, incluso encima y detrás de usted.",
+      "quantity": 3,
+      "price": 15
+    },
+    {
+      "id": 34222,
+      "tittle": "Adobe Acrobat Reader DC",
+      "img": [
+        "https://sparkcdnwus2.azureedge.net/sparkimageassets/XPDP273C0XHQH2-d4f44d21-7677-4bf8-89c5-d735ac7bb252",
+        "https://sparkcdnwus2.azureedge.net/sparkimageassets/XPDP273C0XHQH2-0d7c50c2-bed5-4788-a5a5-254a77869ee7",
+        "https://sparkcdnwus2.azureedge.net/sparkimageassets/XPDP273C0XHQH2-fe9a116b-33ea-4e53-a8cc-103a7a1c077b"
+      ],
+      "icon": "https://sparkcdnwus2.azureedge.net/sparkimageassets/XPDP273C0XHQH2-401bd2ea-49d9-465a-a906-7cf68818c82e",
+      "desc": "Adobe Acrobat Reader DC is the free, trusted global standard for viewing, printing, e-signing, sharing, and annotating PDFs. Open and interact with all types of PDF content including forms and multimedia.",
+      "quantity": 21,
+      "price": 7
+    },
+    {
+      "id": 32344,
+      "tittle": "iTunes",
+      "img": [
+        "https://store-images.s-microsoft.com/image/apps.63781.14127333176902609.fa1c97a7-6019-4921-b6eb-d0f87dd6a68c.09c92d5c-0944-4630-b261-213a099e1b88",
+        "https://store-images.s-microsoft.com/image/apps.18816.14127333176902609.fa1c97a7-6019-4921-b6eb-d0f87dd6a68c.bd65a784-12ae-49b0-bcba-b0442884208f",
+        "https://store-images.s-microsoft.com/image/apps.34300.14127333176902609.fa1c97a7-6019-4921-b6eb-d0f87dd6a68c.d9c1b18f-a60e-4ed8-ae2c-fca83ae5aef6"
+      ],
+      "icon": "https://store-images.s-microsoft.com/image/apps.40518.14127333176902609.7be7b901-15fe-4c27-863c-7c0dbfc26c5c.5c278f58-912b-4af9-88f8-a65fff2da477",
+      "desc": "iTunes es la manera más fácil de disfrutar de la música, las películas o los programas de televisión que más te gustan y de organizar todos tus contenidos fácilmente. Compra o alquila películas, descarga tus programas de televisión favoritos y mucho más. En iTunes también encontrarás Apple Music, donde podrás escuchar millones de canciones y toda tu biblioteca musical sin anuncios. Además, puedes descargar tu música favorita para escucharla cuando no estés conectado a una red Wi-Fi. Pruébalo gratis sin compromiso.",
+      "quantity": 34,
+      "price": 23
+    }
+  ],
+  "users": [
+    {
+      "email": "rodolfocabrera007@gmail.com",
+      "password": "rodo123",
+      "password2": "rodo123",
+      "userName": "Rodo",
+      "id": 1
+    }
+  ]
+}
